@@ -31,14 +31,6 @@
  * MIT Licensed as described in the file LICENSE
  */
 
-/**
- * @file ads130e08.h
- * @defgroup ads130e08 ads130e08
- * @{
- *
- * ESP-IDF driver for ADS130E08 ADC
- */
-
 #ifndef __ADS130E08_H__
 #define __ADS130E08_H__
 
